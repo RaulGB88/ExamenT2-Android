@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBank</string>
+    <string name="login">Login</string>
+    <string name="registro">Registrarse</string>
+    <string name="inicioSesion">Iniciar Sesión</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="crearProducto">Crear producto</string>
+    <string name="olvido">Has olvidado la contraseña?</string>
+    <string name="loginIncorrecto">Usuario o contraseña incorrectos</string>
+    <string name="productos">Productos</string>
+</resources>
